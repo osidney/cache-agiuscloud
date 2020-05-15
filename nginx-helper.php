@@ -1,19 +1,19 @@
 <?php
 /**
- * Plugin Name:       Nginx Helper
- * Plugin URI:        https://rtcamp.com/nginx-helper/
- * Description:       Cleans nginx's fastcgi/proxy cache or redis-cache whenever a post is edited/published. Also does few more things.
- * Version:           2.2.2
- * Author:            rtCamp
- * Author URI:        https://rtcamp.com
- * Text Domain:       nginx-helper
+ * Plugin Name:       Cache AgiusCloud
+ * Plugin URI:        https://github.com/osidney/cache-agiuscloud
+ * Description:       Limpa o cache fastcgi / proxy ou redis-cache do nginx sempre que uma postagem é editada / publicada. Também faz mais algumas coisas.
+ * Version:           1.0.0
+ * Author:            Sidney Andrews
+ * Author URI:        https://agius.cloud
+ * Text Domain:       cache-agiuscloud
  * Domain Path:       /languages
  * Requires at least: 3.0
  * Tested up to:      5.4
  *
- * @link              https://rtcamp.com/nginx-helper/
- * @since             2.0.0
- * @package           nginx-helper
+ * @link              https://github.com/osidney/cache-agiuscloud
+ * @since             1.0.0
+ * @package           cache-agiuscloud
  */
 
 // If this file is called directly, abort.
